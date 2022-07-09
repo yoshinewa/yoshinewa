@@ -33,7 +33,7 @@
 
 <!--Main section-->
 <div align="center">
-  <img src="https://i.ibb.co/Hz2VqTZ/BG-2.png" width="600" height="300"/>
+  <img src="https://i.ibb.co/fQbrf3L/BG-Transparent.png"/>
 </div>
 
 ---
@@ -60,3 +60,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>&nbsp;   
 </div>
 
+---
+
+### :signal_strength: My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoshinewa&theme=dark&background=013220)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshinewa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
