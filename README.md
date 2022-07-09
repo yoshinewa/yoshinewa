@@ -33,7 +33,7 @@
 
 <!--Main section-->
 <div align="center">
-  <img src="https://i.ibb.co/fQbrf3L/BG-Transparent.png"/>
+  <img src="https://i.ibb.co/4PGznSM/BG-Transparent.png"/>
 </div>
 
 ---
