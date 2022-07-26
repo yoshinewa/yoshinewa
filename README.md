@@ -27,13 +27,13 @@
 
 <div id="hello" align="center">
   <h2>
-    Welcome to Yoshi's Wonderland! 👋
+    Hi there! I am Yoshi and I am an Indie Game Developer 👋
   </h2>
 </div>
 
 <!--Main section-->
 <div align="center">
-  <img src="https://i.ibb.co/4PVtq44/Horror-Island-L.png"/>
+  <img src="https://i.ibb.co/4NJswS5/Horror-Island.png"/>
 </div>
 
 ---
